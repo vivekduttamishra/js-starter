@@ -37,7 +37,7 @@ c:\react-native-traing\trainers-work> git clone https://github.com/vivekduttamis
 2. Note the trailing dot (.) after the url and a blank space
 3. If git command fails, download and install git client from 
 
-
+#### https://gitforwindows.org/
 #### https://git-scm.com/downloads 
 
 ## 3. Copy the following files from trainers-work to my-work folder
